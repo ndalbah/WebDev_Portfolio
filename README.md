@@ -3,7 +3,7 @@ Create your portfolio using the specific website template
 provided. The website should be contained in a single file named index.html. The
 template includes a navbar with links that smoothly scroll to different sections of the
 page. You must use the provided script.css file for styling and create a script.js file using
-jQuery for navigation functionality. \
+jQuery for navigation functionality.
 
 ## Layout
 **Here's how the portfolio views are structured:** <br><br>
